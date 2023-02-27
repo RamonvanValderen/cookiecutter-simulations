@@ -1,5 +1,5 @@
 # exclude compiled binaries and external models
-/bin
+/1-bin
 
 # exclude raw simulation output data (too large)
-/4-simulation_output
+/4-simulation_output/*
