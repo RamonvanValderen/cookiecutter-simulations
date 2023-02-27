@@ -3,3 +3,7 @@
 
 # exclude raw simulation output data (too large)
 /4-simulation_output/*
+
+# exception to the rule
+!1-bin/.gitkeep 
+!4-simulation_output/.gitkeep 
