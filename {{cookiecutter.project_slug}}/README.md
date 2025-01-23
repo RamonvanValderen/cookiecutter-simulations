@@ -14,7 +14,7 @@ Version {{cookiecutter.version}}
 ├── LICENSE.md
 ├── README.md
 ├── requirements.txt
-├── 1-geometries            
+├── 1-metadata            
 │   └── 1-geometry_files            <- .stl or .step files of geometry
 │   └── 2-drawings                  <- drawings with dimensions and different views of geometries
 ├── 2-simulations                   <- all simulation files with logical folder names
